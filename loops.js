@@ -1,3 +1,4 @@
+
 function forLoop(array) {
   for(var i = 0; i < 25; i++) {
     if (i == 1)
@@ -16,5 +17,5 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  
+
 }
