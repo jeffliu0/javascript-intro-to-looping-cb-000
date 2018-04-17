@@ -7,7 +7,6 @@ function forLoop(array) {
     }
     else {
       array.push(`I am ${i} strange loops.`)
-      )
     }
   }
 }
@@ -18,7 +17,7 @@ function whileLoop(n) {
   while(countdown >0) {
     console.log(--countdown)
   }
-  
+
   console.log('done')
 }
 
