@@ -9,6 +9,8 @@ function forLoop(array) {
       array.push(`I am ${i} strange loops.`)
     }
   }
+
+  return array
 }
 
 function whileLoop(n) {
